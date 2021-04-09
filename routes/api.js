@@ -2,7 +2,7 @@ __path = process.cwd()
 
 var express = require('express');
 
-var creatorList = ['@zahirrr','@zhirrrgans','@zhirr_ajalah','@zahiranjay', '@zahirganssss','@zhirrganteng','@zahirrgantengg'];
+var creatorList = ['@alpinnigan'];
 var creator = creatorList[Math.floor(Math.random() * creatorList.length)];
 
 
